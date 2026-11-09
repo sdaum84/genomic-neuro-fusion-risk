@@ -1,0 +1,9 @@
+# Python environment & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE settings
+.idea/
+.DS_Store
